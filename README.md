@@ -42,7 +42,7 @@ WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
 
-Below are some esources used:
+Below are some resources used:
 
 https://www.w3schools.com/css/
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Advanced_styling_effects

@@ -4,9 +4,9 @@ A simple portfolio website that is user responsive and easy to navigate showcasi
 
 ** Built With **
 
-This project was built using the following technologies:
-HTML5
-CSS3
+This project was built using these technologies:
+HTML5,
+CSS3,
 FontAwesome Icons
 
 

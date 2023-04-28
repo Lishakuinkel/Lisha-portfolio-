@@ -2,9 +2,15 @@
 
 A simple portfolio website that is user responsive and easy to navigate showcasing your web development skills using Advanced CSS. 
 
+** Built With **
+
+This project was built using the following technologies:
+HTML5
+CSS3
+FontAwesome Icons
 
 
-** User Story
+** User Story **
 
 AS AN employer
 I WANT to view a potential employee's deployed portfolio of work samples
@@ -12,7 +18,7 @@ SO THAT I can review samples of their work and assess whether they're a good can
 
 
 
-** Acceptance Criteria
+** Acceptance Criteria **
 Here are the critical requirements necessary to develop a portfolio that satisfies a typical hiring manager’s needs:
 
 GIVEN I need to sample a potential employee's previous work

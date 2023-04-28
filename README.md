@@ -2,6 +2,9 @@
 
 A simple portfolio website that is user responsive and easy to navigate showcasing your web development skills using Advanced CSS. 
 
+<img width="1436" alt="image" src="https://user-images.githubusercontent.com/130411719/235062715-08e535fa-0caf-4c0c-82fd-b7b83ee819a2.png">
+
+
 ** Built With **
 
 This project was built using these technologies:

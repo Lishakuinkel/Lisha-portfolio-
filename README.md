@@ -7,7 +7,7 @@ A simple portfolio website that is user responsive and easy to navigate showcasi
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/130411719/235063148-f2f5959b-4bac-455f-8318-258223680768.png">
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/130411719/235063187-b212e869-2220-4fa1-afa5-f9aeca337b9c.png">
 
-
+Here is the link to the live deployed application : https://lishakuinkel.github.io/Lisha-portfolio-/
 
 ** Built With **
 

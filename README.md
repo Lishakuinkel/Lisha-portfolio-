@@ -1,4 +1,4 @@
-# Lisha-portfolio
+# Lisha-portfolio-website
 
 A simple portfolio website that is user responsive and easy to navigate showcasing your web development skills using Advanced CSS. 
 
